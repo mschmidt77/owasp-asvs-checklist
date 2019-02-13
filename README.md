@@ -12,4 +12,4 @@ This checklist is compatible with the version 3.0.1 of ASVS you can find [here](
 
 Once the checklist filled you can display a summary graph on the Project
 
-![ASVS Checkist Report](./screenshot/ASVS-checklist-report.png)
+![ASVS Checkist Report](./screenshot/ASVS-report.png)
